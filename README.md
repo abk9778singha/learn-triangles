@@ -13,7 +13,7 @@ HTML, JavaScript, CSS for styling
 
 ## Documentation -
 
-This app is built using HTML, JavaScript and CSS for styling. It helps user to learn about traingles using quiz and interactions.
+This app is built using HTML, JavaScript and CSS for styling. It helps user to learn about triangles using quiz and interactions.
  
 
 Features -
@@ -21,7 +21,7 @@ Features -
 - Is Triangle (to check if 3 angles make a triangle)
 - Quiz (related to triangles and their properties). Quiz also gives score for the correct answers.
 - Hypotenuse (calculate the hypotenuse)
-- Area of Traingle (calculate area of triangle)
+- Area of Triangle (calculate area of triangle)
 
 
 
@@ -36,7 +36,7 @@ Quiz - <br/>
 Hypotenuse - <br/>
 <img src="img/hypotenuse.png" width="500" height="500"/> 
 
-Area of Traingle - <br/>
+Area of Triangle - <br/>
 <img src="img/trianglearea.png" width="500" height="500"/> 
 
 ## Author -
