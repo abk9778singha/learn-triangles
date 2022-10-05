@@ -1,0 +1,40 @@
+
+.question-container{
+    margin: 1rem auto;
+}
+
+.question-container label{
+    margin-top: 0.2rem;
+    margin-right: 0.5rem;
+}
+
+.question-container input{
+    margin-right: 0.2rem;
+}
+
+.question-container p{
+  margin-top:1.5rem;
+}
+
+footer{
+    text-align: center;
+    padding: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

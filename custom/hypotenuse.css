@@ -1,0 +1,37 @@
+
+#formula-hint{
+    text-align:center;
+    margin-top: 1rem;
+}
+
+label{
+    display:block;
+    margin: 1rem auto 0rem;
+    text-align: center;
+}
+
+input{
+    display:block;
+    margin: 0 auto;
+    width: 25vw;
+    height: 2rem;
+    text-align: center;
+}
+
+footer{
+    position:fixed;
+    bottom:0;
+    width:100vw;
+    text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
