@@ -28,16 +28,16 @@ Features -
 ## Screenshots -
 
 Is Triangle -
-<img src="img/istriangle.png" width="500" height="500"/>
+<img src="img/istriangle.png" width="500" height="500"/> <br/>
 
 Quiz - 
-<img src="img/trianglequiz.png" width="500" height="500"/>
+<img src="img/trianglequiz.png" width="500" height="500"/> <br/>
 
 Hypotenuse - 
-<img src="img/hypotenuse.png" width="500" height="500"/>
+<img src="img/hypotenuse.png" width="500" height="500"/> <br/>
 
 Area of Traingle -
-<img src="img/trianglearea.png" width="500" height="500"/>
+<img src="img/trianglearea.png" width="500" height="500"/> <br/>
 
 ## Author -
 
