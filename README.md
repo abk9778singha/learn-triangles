@@ -27,17 +27,17 @@ Features -
 
 ## Screenshots -
 
-Is Triangle -
-<img src="img/istriangle.png" width="500" height="500"/> <br/>
+Is Triangle - <br/>
+<img src="img/istriangle.png" width="500" height="500"/> 
 
-Quiz - 
-<img src="img/trianglequiz.png" width="500" height="500"/> <br/>
+Quiz - <br/>
+<img src="img/trianglequiz.png" width="500" height="500"/> 
 
-Hypotenuse - 
-<img src="img/hypotenuse.png" width="500" height="500"/> <br/>
+Hypotenuse - <br/>
+<img src="img/hypotenuse.png" width="500" height="500"/> 
 
-Area of Traingle -
-<img src="img/trianglearea.png" width="500" height="500"/> <br/>
+Area of Traingle - <br/>
+<img src="img/trianglearea.png" width="500" height="500"/> 
 
 ## Author -
 
