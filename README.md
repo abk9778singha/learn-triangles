@@ -4,7 +4,7 @@ A website which helps you to learn about triangles.
 
 ## Demo -
 
-You can view this app live here - [Demo](https://learn-triangles-funway.netlify.app/index.html)
+You can view this app live here - [Demo](https://learn-triangles-funway.netlify.app/)
 
 ## Tech Stack -
 
